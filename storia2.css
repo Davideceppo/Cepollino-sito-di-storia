@@ -1,0 +1,40 @@
+body{
+background-color:#d2b48c 
+}
+a:link, a:visited {
+ 
+  color: black;
+  padding: 7px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+h1{
+color: white;
+};
+
+a:hover, a:active {
+ ;
+}
+body{
+background-image: url(sfondo.jpg);
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-size: cover;
+};
+
+.ebid{
+background-color:#C0C0C0;
+
+}
+.f {
+    background-color: #red; 
+    color: #ffffff; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 8px; }

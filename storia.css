@@ -1,0 +1,36 @@
+
+a:link, a:visited {
+ 
+  color: black;
+  padding: 7px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+body{
+  background-color: #955f20;
+}
+
+img{
+   max-width: 100%;
+   height:auto;
+
+}
+
+.ebid{
+
+background: linear-gradient(to left, #9c611e, #ffcc00);
+margin:auto;
+width:800px; 
+border-radius:20px;
+
+}
+.b{
+
+  background: linear-gradient(to right, #955f20, #ffcc00);
+  margin:auto;
+  width:800px; 
+  border-radius:20px;
+  
+  }
